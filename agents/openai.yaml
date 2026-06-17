@@ -1,0 +1,8 @@
+interface:
+  display_name: "小红书封面创作"
+  short_description: "按参考图生成封面，并本地排版中文文案"
+  brand_color: "#E84B3C"
+  default_prompt: "用 $xiaohongshu-cover-maker 按我的参考图和新标题生成一张小红书封面。"
+
+policy:
+  allow_implicit_invocation: true
