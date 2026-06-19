@@ -2,7 +2,7 @@
 
 这是一个 Codex skill，用来按参考封面和新文案生成小红书封面。
 
-![案例封面](examples/codex-cover-design.png)
+![前后对比](examples/before-after-comparison.png)
 
 核心流程：
 
@@ -21,7 +21,11 @@
 
 ## 案例
 
-这次案例是把一张 Figma 插件风格的小红书封面，改成 Codex 主题封面：
+这次案例是把一张 Figma 插件风格的小红书封面，改成 Codex 主题封面。对比图如下：
+
+| 原参考图 | 最终效果图 |
+| --- | --- |
+| ![原参考图](examples/before-figma-plugin-reference.png) | ![最终效果图](examples/after-codex-cover-final.png) |
 
 - 主标题：`codex 王炸技巧`
 - 副标题：`夯爆封面 skill`
